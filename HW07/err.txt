@@ -1,0 +1,4 @@
+After fork
+After command
+Read answer, lenght -1
+Ncat: You must specify a host to connect to. QUITTING.
